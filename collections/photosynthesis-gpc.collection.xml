@@ -1,44 +1,17 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jeffrey Mahr">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11637</md:content-id>
-  <md:title>Photosynthesis (GPC)</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>3a6ee918-cf11-493d-bc03-924fe5b4d484</md:uuid>
-<md:slug>photosynthesis-gpc</md:slug>
-</metadata>
-
+    <md:content-id>col11637</md:content-id>
+    <md:title>Photosynthesis (GPC)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3a6ee918-cf11-493d-bc03-924fe5b4d484</md:uuid>
+    <md:slug>photosynthesis-gpc</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48007"/>
-        
-      
-    
-    
-      <col:module document="m48009"/>
-        
-      
-    
-    
-      <col:module document="m48011"/>
-        
-      
-    
-    
-      <col:module document="m48010"/>
-        
-      
-    
+    <col:module document="m48007"/>
+    <col:module document="m48009"/>
+    <col:module document="m48011"/>
+    <col:module document="m48010"/>
   </col:content>
 </col:collection>
